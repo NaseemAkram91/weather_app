@@ -96,7 +96,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather_app.git
+   git clone https://github.com/NaseemAkram91/weather_app.git
    cd weather_app
    ```
 
@@ -230,9 +230,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📧
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Naseem Akram - [@NaseemAkram91](https://github.com/NaseemAkram91)
 
-Project Link: [https://github.com/yourusername/weather_app](https://github.com/yourusername/weather_app)
+Project Link: [https://github.com/NaseemAkram91/weather_app](https://github.com/NaseemAkram91/weather_app)
 
 ---
 
